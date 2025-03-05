@@ -30,6 +30,13 @@ Here are some of my notable projects:
 
 ---
 
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuwanDhital&layout=compact&theme=radical)
+
+---
+
 ## 📫 Contact
 
 <a href="mailto:contact@suwandhital.com.np">
@@ -44,9 +51,3 @@ Here are some of my notable projects:
 <a href="https://www.facebook.com/iamsuwand">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuwanDhital&layout=compact&theme=radical)
-
----
