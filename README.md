@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Kathmandu, Nepal**. I specialize in various programming languages and tools, including **Python**, **JavaScript**, **Batch**, and **C++**. I am passionate about cyber things and committed to safeguarding digital data. Learning about the newest security trends and methods to protect systems from attacks is something I enjoy doing. 
+Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Nepal**. I specialize in various programming languages and tools, including **Python**, **JavaScript**, **Batch**, and **C++**. I am passionate about cyber things and committed to safeguarding digital data. Learning about the newest security trends and methods to protect systems from attacks is something I enjoy doing. 
 
 ---
 
@@ -18,12 +18,13 @@ Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Kathmandu, Nepal**. I spec
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 - ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+- ![Wireshark](https://img.shields.io/badge/Wireshark-1679A1?style=flat-square&logo=wireshark&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### Operating Systems
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Networking
-- ![Networking](https://img.shields.io/badge/Networking-0072C6?style=flat-square&logo=cisco&logoColor=white)
+- ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
@@ -45,19 +46,10 @@ Here are some of my notable projects:
 
 Feel free to reach out to me through any of the following platforms:
 
-- **Email**: [suwan.dhital@example.com](mailto:suwan.dhital@example.com)
+- **Email**: [contact@suwandhital.com.np](mailto:contact@suwandhital.com.np)
 - **LinkedIn**: [linkedin.com/in/suwan404](https://www.linkedin.com/in/suwan404)
 - **GitHub**: [github.com/SuwanDhital](https://github.com/SuwanDhital)
 - **Facebook**: [facebook.com/iamsuwand](https://www.facebook.com/iamsuwand)
-- **Instagram**: [instagram.com/suwandhital](https://www.instagram.com/suwandhital/)
-
----
-
-## 🎉 Fun Facts
-
-- I love exploring new technologies and learning about the latest security trends. 🔒
-- In my free time, I enjoy hiking and discovering new places in nature. 🌲
-- I'm a coffee enthusiast and enjoy trying out different coffee blends! ☕
 
 ---
 
@@ -66,5 +58,3 @@ Feel free to reach out to me through any of the following platforms:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuwanDhital&layout=compact&theme=radical)
 
 ---
-
-Thank you for visiting my profile! Feel free to connect with me! 😊
