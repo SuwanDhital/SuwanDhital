@@ -33,8 +33,6 @@ Here are some of my notable projects:
 
 ## 📫 Contact Me
 
-## 📫 Contact
-
 <a href="mailto:contact@suwandhital.com.np">
   <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>&nbsp;&nbsp;&nbsp; <!-- Add space here -->
