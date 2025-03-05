@@ -3,8 +3,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Nepal**. I specialize in various programming languages and tools, including **Python**, **JavaScript**, **Batch**, and **C++**. I am passionate about cyber things and committed to safeguarding digital data. Learning about the newest security trends and methods to protect systems from attacks is something I enjoy doing. 
-
+Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Nepal**. I specialize in various programming languages and tools, including **Python**, **JavaScript**, **Batch**, and **C++**.
 ---
 
 ## 🛠️ Skills
