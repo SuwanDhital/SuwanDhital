@@ -30,16 +30,9 @@ Here are some of my notable projects:
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-Feel free to reach out to me through any of the following platforms:
-
-- **Email**: [contact@suwandhital.com.np](mailto:contact@suwandhital.com.np)
-- **LinkedIn**: [linkedin.com/in/suwan404](https://www.linkedin.com/in/suwan404)
-- **GitHub**: [github.com/SuwanDhital](https://github.com/SuwanDhital)
-- **Facebook**: [facebook.com/iamsuwand](https://www.facebook.com/iamsuwand)
-
----
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@suwandhital.com.np) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suwan404) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SuwanDhital) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/iamsuwand)
 
 ## 📈 GitHub Stats
 
