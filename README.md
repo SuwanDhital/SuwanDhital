@@ -32,16 +32,12 @@ Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Kathmandu, Nepal**. I spec
 Here are some of my notable projects:
 
 - **[CeaserCipher](https://github.com/SuwanDhital/CeaserCipher)**: A project that allows users to easily encrypt or decrypt text and files using the Caesar Cipher method.  
-  ![CeaserCipher](https://via.placeholder.com/150?text=CeaserCipher)
 
 - **[Batch-File-Directory-Manager](https://github.com/SuwanDhital/Batch-File-Directory-Manager)**: A command-line utility that allows users to manage directories and files on their Windows system.  
-  ![Batch-File-Directory-Manager](https://via.placeholder.com/150?text=Batch+File+Manager)
 
 - **[NoughtsAndCrosses](https://github.com/SuwanDhital/NoughtsAndCrosses)**: A popular two-player game where each side has a specific symbol (X or O).  
-  ![NoughtsAndCrosses](https://via.placeholder.com/150?text=Noughts+And+Crosses)
-
+ 
 - **[Weather-App](https://github.com/SuwanDhital/Weather-App)**: A weather application that fetches data from the Open Weather API and presents it to users.  
-  ![Weather-App](https://via.placeholder.com/150?text=Weather+App)
 
 ---
 
