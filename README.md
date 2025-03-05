@@ -3,7 +3,8 @@
 
 ## 👋 About Me
 
-Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Nepal**. I specialize in various programming languages and tools, including **Python**, **JavaScript**, **Batch**, and **C++**. I am a dynamic individual with a passion for exploration. I enjoy hiking and reading in my free time. Committed to making a positive impact, I believe in the power of kindness and lifelong learning.
+Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Nepal**. I specialize in various programming languages and tools, including **Python**, **JavaScript**, **Batch**, and **C++**.I am a dynamic individual with a passion for exploration. I enjoy hiking and reading in my free time. Committed to making a positive impact, I believe in the power of kindness and lifelong learning.
+
 ---
 
 ## 🛠️ Skills
