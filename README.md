@@ -1,11 +1,12 @@
 # 🌟 [Suwan Dhital](https://suwandhital.com.np)'s GitHub Profile
 
+
 ## 👋 About Me
 
 Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Nepal**. I specialize in various programming languages and tools, including **Python**, **JavaScript**, **Batch**, and **C++**. I am passionate about cyber things and committed to safeguarding digital data. Learning about the newest security trends and methods to protect systems from attacks is something I enjoy doing. 
 
 ---
-#
+
 ## 🛠️ Skills
 
 ### Languages
@@ -16,6 +17,7 @@ Hello! I'm **Suwan Dhital**, a Tech Enthusiast from **Nepal**. I specialize in v
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 
 ## 🌍 Projects
 
@@ -28,29 +30,23 @@ Here are some of my notable projects:
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 <a href="mailto:contact@suwandhital.com.np">
   <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>&nbsp;&nbsp;&nbsp; <!-- Add space here -->
+</a>&nbsp;&nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/suwan404">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;&nbsp;&nbsp; <!-- Add space here -->
+</a>&nbsp;&nbsp;&nbsp; 
 <a href="https://github.com/SuwanDhital">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>&nbsp;&nbsp;&nbsp; <!-- Add space here -->
+</a>&nbsp;&nbsp;&nbsp; 
 <a href="https://www.facebook.com/iamsuwand">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
----
-
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center;">
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuwanDhital&layout=compact&theme=radical)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuwanDhital&layout=compact&theme=radical)
 
 ---
