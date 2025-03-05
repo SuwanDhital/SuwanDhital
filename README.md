@@ -1,4 +1,4 @@
-# 🌟 Suwan Dhital's GitHub Profile
+# 🌟 [Suwan Dhital](https://yourwebsite.com)'s GitHub Profile
 
 ## 👋 About Me
 
@@ -62,8 +62,6 @@ Feel free to reach out to me through any of the following platforms:
 ---
 
 ## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuwanDhital&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuwanDhital&layout=compact&theme=radical)
 
