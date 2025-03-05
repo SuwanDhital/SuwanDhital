@@ -45,8 +45,8 @@ Here are some of my notable projects:
 <a href="https://www.linkedin.com/in/suwan404">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>&nbsp;&nbsp;&nbsp; 
-<a href="https://github.com/SuwanDhital">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://discordapp.com/users/1322826533001236510">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 </a>&nbsp;&nbsp;&nbsp; 
 <a href="https://www.facebook.com/iamsuwand">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
