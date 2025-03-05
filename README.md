@@ -30,25 +30,20 @@ Here are some of my notable projects:
 
 ## 📫 Contact Me
 
-<div style="display: flex; justify-content: center; align-items: center;">
+## 📫 Contact
 
-  <a href="mailto:contact@suwandhital.com.np">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/suwan404">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://github.com/SuwanDhital">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <a href="https://www.facebook.com/iamsuwand">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-
-</div>
+<a href="mailto:contact@suwandhital.com.np">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>&nbsp;&nbsp;&nbsp; <!-- Add space here -->
+<a href="https://www.linkedin.com/in/suwan404">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;&nbsp;&nbsp; <!-- Add space here -->
+<a href="https://github.com/SuwanDhital">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>&nbsp;&nbsp;&nbsp; <!-- Add space here -->
+<a href="https://www.facebook.com/iamsuwand">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 
 ---
 
